@@ -1,9 +1,9 @@
 ## Desenho da Arquitetura
 ### C1 - Contexto
-![Contexto](docs/diagramasC4/c1.png)
+![Contexto](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/diagramasC4/c1.png)
 
 ### C2 - Container
-![Container](docs/diagramasC4/c2.png)
+![Container](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/diagramasC4/c2.svg)
 
 **Obs:** Não haviam dados suficientes a respeito da volumetria diária total para calcular efetivamente os custos da utilização do sistema em nuvem, a estratégia utilizada foi organizar os componentes em serviços utilizando interfaces que possam substituir as atuais ferramentas no futuro, bem como as presentes ferramentas foram escolhidas com os seguintes critérios seguindo a precedencia apresentada: 
 - **Especificações de utilização do projeto:** Como determinada ferramenta resolve as necessidades e problemas apresentados no escopo da aplicação.
