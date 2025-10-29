@@ -99,6 +99,14 @@ Consulte a documentação de Arquitetura para a ler a definição completa: [aqu
 
 Para mais informações sobre as decisões de tecnologia, consulte as ADR (Architecture Decision Record):
 
+- [ADR: 001 - Escolha da arquitetura de Microsserviços](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/001.md)
+
+- [ADR: 002 - Escolha da arquitetura das Operações Como Eventos Únicos](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/002.md)
+
+- [ADR: 003 - Ausência da da Escolha da Tecnologia de Interface com o Cliente](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/003.md)
+
+- [ADR: 004 - Escolha de tecnologia para Controle de Lançamentos API](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/004.md)
+
 
 ## Como Executar
 Consulte os repositórios das soluções, a sessão *read-me* dispõe de todas as informações de necessárias para a execução de cada contexto:

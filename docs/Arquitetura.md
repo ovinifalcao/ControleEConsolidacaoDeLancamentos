@@ -12,6 +12,7 @@
 
 
 **Componentes:**
+
 :large_blue_circle: **Aplicação**
 
 :large_blue_circle: **Api Proxy**
@@ -25,8 +26,6 @@
 :small_blue_diamond: **Lançamentos Broker** - Apache Kafka
 
 :large_blue_circle: **Telemetria**
-
-:small_blue_diamond: OpenTelemetry
 
 :large_blue_circle: **Consolidação Financeira**
 
