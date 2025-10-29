@@ -1,7 +1,9 @@
 # Controle e Consolidação de Lançamentos
 
 Versão: 1.0.0
+
 Data: 2025-10-28
+
 Por:  André Vinícius A. Falcão
 
 ## :dart: Objetivo
@@ -90,10 +92,10 @@ Um comerciante precisa controlar seu fluxo de caixa diário com lançamentos (d�
 |Relatório| Entidade que mostra os valores finais sumarizados de todos os lançamentos de um dia. |
 
 ## :memo: Requisitos
-Consulte a documentação de Requisitos para a ler a definição completa: aqui.
+Consulte a documentação de Requisitos para a ler a definição completa: [aqui](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/Requisitos.md).
 
 ## :classical_building: Arquitetura
-Consulte a documentação de Arquitetura para a ler a definição completa: aqui.
+Consulte a documentação de Arquitetura para a ler a definição completa: [aqui](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/Arquitetura.md).
 
 Para mais informações sobre as decisões de tecnologia, consulte as ADR (Architecture Decision Record):
 
@@ -102,5 +104,6 @@ Para mais informações sobre as decisões de tecnologia, consulte as ADR (Archi
 Consulte os repositórios das soluções, a sessão *read-me* dispõe de todas as informações de necessárias para a execução de cada contexto:
 
 [Controle de Lançamentos](https://github.com/ovinifalcao/ControleLancamentosAPI)
+
 [Consolidação Financeira](https://github.com/ovinifalcao/ConsolidacaoFinanceiraAPI)
 
