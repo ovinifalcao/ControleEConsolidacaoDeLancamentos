@@ -1,9 +1,9 @@
 ## Desenho da Arquitetura
 ### C1 - Contexto
-![Contexto](docs/diagramasC4/c1.svg)
+![Contexto](docs/diagramasC4/c1.png)
 
 ### C2 - Container
-![Container](docs/diagramasC4/c2.svg)
+![Container](docs/diagramasC4/c2.png)
 
 **Obs:** Não haviam dados suficientes a respeito da volumetria diária total para calcular efetivamente os custos da utilização do sistema em nuvem, a estratégia utilizada foi organizar os componentes em serviços utilizando interfaces que possam substituir as atuais ferramentas no futuro, bem como as presentes ferramentas foram escolhidas com os seguintes critérios seguindo a precedencia apresentada: 
 - **Especificações de utilização do projeto:** Como determinada ferramenta resolve as necessidades e problemas apresentados no escopo da aplicação.
@@ -11,28 +11,15 @@
  - **Intercambialidade com serviços de nuvem**: Ferramentas que apresentem comportamentos semelhantes ou que tenham similares na nuvem: Ex. Kubernets (AKS, EKS, GKE).
 
 
-**Componentes:**
-
-:large_blue_circle: **Aplicação**
-
-:large_blue_circle: **Api Proxy**
-
-:large_blue_circle: **Controle de Lançamentos**
-
-:small_blue_diamond: **Controle de Lançamentos API** - .Net Core API
-
-:small_blue_diamond: **Lançamentos Database** - Postgres 
-
-:small_blue_diamond: **Lançamentos Broker** - Apache Kafka
-
-:large_blue_circle: **Telemetria**
-
-:large_blue_circle: **Consolidação Financeira**
-
-:small_blue_diamond: **Consolidação Financeira API** - .Net Core API
-
-:small_blue_diamond: **Woker Consolidação financeira**  - .Net Core
-
-:small_blue_diamond: **Consolidação Database** - Mongo Db
-
-:small_blue_diamond: **Cache** - Redis
+|Componente| Tecnologia |
+|--|--|
+|Aplicação| *.Net Framework, React, Angular* |
+|Api Proxy| *Apigee, Ngix* |
+| Controle de Lançamentos API | .Net Core API |
+| Lançamentos Database | Postgres |
+| Lançamentos Broker | Apache Kafka|
+| Telemetria | OpenTelemetry |
+| Consolidação Financeira API | .Net Core API|
+| Woker Consolidação financeira  | .Net Core|
+| Consolidação Database | Mongo Db|
+| Cache | Redis|
