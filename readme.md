@@ -108,10 +108,16 @@ Para mais informações sobre as decisões de tecnologia, consulte as ADR (Archi
 - [ADR: 004 - Escolha de tecnologia para Controle de Lançamentos API](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/004.md)
 
 
-## Como Executar
+## :rocket: Como Executar
 Consulte os repositórios das soluções, a sessão *read-me* dispõe de todas as informações de necessárias para a execução de cada contexto:
 
 [Controle de Lançamentos](https://github.com/ovinifalcao/ControleLancamentosAPI)
 
 [Consolidação Financeira](https://github.com/ovinifalcao/ConsolidacaoFinanceiraAPI)
 
+
+## :chart: Melhorias
+A sessão discute as oportunidades de melhoria dos sistema em momento posterior ou em entregas incrementais, consulte [aqui](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/Evolucao.md).
+
+## :trophy: Resultados
+A sessão discute os resultados dos testes de de performance realizado na aplicação em ambiente controlado e como eles cumprem os requisitos relacionados. Consulte [aqui](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/Resultados.md).

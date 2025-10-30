@@ -1,6 +1,6 @@
 ## Desenho da Arquitetura
 ### C1 - Contexto
-![Contexto](./diagramasC4/c1.png)
+![Contexto](./diagramasC4/c1.svg)
 
 ### C2 - Container
 ![Container](./diagramasC4/c2.svg)
