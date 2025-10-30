@@ -18,15 +18,17 @@ Um comerciante precisa controlar seu fluxo de caixa diário com lançamentos (d�
 
 ## 📖 Índice
 
-* [Descrição do problema](#descrição-do-problema)
-* [Definição de contextos](#definição-de-contextos)
+* [🎯 Objetivo](#-objetivo)
+* [🚨 Descrição do problema](#-descrição-do-problema)
+* [📋 Definição de contextos](#-definição-de-contextos)
     * [Controle de Lançamentos](#controle-de-lançamentos)
     * [Consolidação Financeira](#consolidação-financeira)
     * [Linguagem Compartilhada](#linguagem-compartilhada)
-* [Requisitos](#requisitos)
-* [Arquitetura](#arquitetura)
-
-* [Como Executar](#como-executar)
+* [📝 Requisitos](#-requisitos)
+* [🏛️ Arquitetura](#-arquitetura)
+* [🚀 Como Executar](#-como-executar)
+* [💹 Melhorias](#-melhorias)
+* [🏆 Resultados](#-resultados)
 
 
 ##  :clipboard: Definição de contextos:
