@@ -15,6 +15,7 @@
 |--|--|
 |Aplicação| *.Net Framework, React, Angular* |
 |Api Proxy| Ngix |
+|Servidor de Identidade| Keycloak |
 | Controle de Lançamentos API | .Net Core API |
 | Lançamentos Database | Postgres |
 | Lançamentos Broker | Apache Kafka|

@@ -33,4 +33,4 @@ Como foi apresentado na sessão de Arquitetura, não foram apresentados dados de
 - Banco Relacional - `Lançamentos DB`
 - Banco de Documentos - `Consolidação DB`
 - Cache - `Consolidado Cache`
-- Maquina Virtual - `Api Proxy`
+- Maquina Virtual - `Api Proxy` `Servidor de Identidade`

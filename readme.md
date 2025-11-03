@@ -117,6 +117,8 @@ Consulte os repositórios das soluções, a sessão *read-me* dispõe de todas a
 
 [Consolidação Financeira](https://github.com/ovinifalcao/ConsolidacaoFinanceiraAPI)
 
+[Controle e Consolidação de Lançamentos Dependencias](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentosDependencias)
+
 
 ## :chart: Melhorias
 A sessão discute as oportunidades de melhoria dos sistema em momento posterior ou em entregas incrementais, consulte [aqui](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/Evolucao.md).
