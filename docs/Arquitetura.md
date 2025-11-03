@@ -14,7 +14,7 @@
 |Componente| Tecnologia |
 |--|--|
 |Aplicação| *.Net Framework, React, Angular* |
-|Api Proxy| *Apigee, Ngix* |
+|Api Proxy| Ngix |
 | Controle de Lançamentos API | .Net Core API |
 | Lançamentos Database | Postgres |
 | Lançamentos Broker | Apache Kafka|
