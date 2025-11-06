@@ -116,9 +116,9 @@ Para mais informações sobre as decisões de tecnologia, consulte as ADR (Archi
 - [ADR: 007 - Escolha do MongoDb como tecnologia de armazenamento do Relatório Consolidado](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/007.md)
 
 
-- [008 - Escolha do PostgreSql como tecnologia de armazenamento transacional dos Lançamentos](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/008.md)
+- [ADR: 008 - Escolha do PostgreSql como tecnologia de armazenamento transacional dos Lançamentos](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/008.md)
 
-- [009 - Utilização de um cache para o relatório e sua tecnologia](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/009.md)
+- [ADR: 009 - Utilização de um cache para o relatório e sua tecnologia](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/009.md)
 
 - [ADR: 010 - Utilização do Open Telemetry e a definição de uma tecnologia de observabilidade.](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/0010.md)
 
