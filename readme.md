@@ -109,6 +109,23 @@ Para mais informações sobre as decisões de tecnologia, consulte as ADR (Archi
 
 - [ADR: 004 - Escolha de tecnologia para Controle de Lançamentos API](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/004.md)
 
+- [ADR: 005 - Escolha da tecnologia de Mensageria](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/005.md)
+
+- [ADR: 006 - Utilização do Worker para processamento de mensagens e sua tecnologia.](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/006.md)
+
+- [ADR: 007 - Escolha do MongoDb como tecnologia de armazenamento do Relatório Consolidado](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/007.md)
+
+
+- [008 - Escolha do PostgreSql como tecnologia de armazenamento transacional dos Lançamentos](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/008.md)
+
+- [009 - Utilização de um cache para o relatório e sua tecnologia](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/009.md)
+
+- [ADR: 010 - Utilização do Open Telemetry e a definição de uma tecnologia de observabilidade.](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/0010.md)
+
+- [ADR: 011 -  Uso do proxy e escolha do Nginx como tecnologia.](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/011.md)
+
+- [ADR: 012 - Uso de um servidor de identidade e a escolha da sua tecnologia](https://github.com/ovinifalcao/ControleEConsolidacaoDeLancamentos/blob/main/docs/ADR/012.md)
+
 
 ## :rocket: Como Executar
 Consulte os repositórios das soluções, a sessão *read-me* dispõe de todas as informações de necessárias para a execução de cada contexto:
